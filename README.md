@@ -1,6 +1,7 @@
 # M5 - Pet Kare
 
 Nesse projeto, exercitamos o conteúdo aprendido de Django para desenvolver uma API que gerencia cadastro de pets e suas características.
+Link do Deploy da aplicação feito no RailWay - <a href="https://m5-bandkamp-annekarolle-production.up.railway.app/ ">https://m5-bandkamp-annekarolle-production.up.railway.app/ </a>. 
 
 ## Diagrama de Classe
 ![Screenshot](pet_kare.drawio.png)
